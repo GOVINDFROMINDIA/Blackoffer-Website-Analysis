@@ -1,0 +1,10 @@
+Two links given were not found hence respective column values remain null.
+
+RUN PYTHON FILES IN FOLLOWING ORDER:
+- FileContent.py
+- preprocess.py
+- sentiment.py
+- wordstats1.py
+- wordstats2.py
+- PolaritySubjectivity.py
+- Analysis of Readability.py
